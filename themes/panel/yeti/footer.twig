@@ -1,0 +1,118 @@
+{{ footerCode }}
+
+{% for script in scriptList %}
+    <script type="text/javascript" src="{{ script }}"></script>
+{% endfor %}
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        setInterval(function () {
+            const leftWell = document.getElementById("left-well");
+            const rightWell = document.getElementById("right-well");
+  			if(leftWell && rightWell)
+            	rightWell.style.height = leftWell.clientHeight - 68 + "px";
+        }, 100);
+    });
+
+    const alertArea = document.getElementById("alertArea");
+    const successArea = document.getElementById("successArea");
+	if(successArea){
+      successArea.style.display = "none";
+      successArea.style.marginTop = "8px";
+    }
+  	if(alertArea){
+    	alertArea.style.display = "none";
+    	alertArea.style.marginTop = "8px";
+	}
+    function handleOrderType(selectObject) {
+        var element = document.getElementById("order-grubu");
+        var element2 = document.getElementById("payment-grubu");
+        var optional = document.getElementById("other-grubu");
+        if (selectObject.value == "Order" || selectObject.value == "VIP - Order") {
+            element.style.display = "block";
+            element2.style.display = "none";
+            optional.style.display = "inline";
+        } else if (selectObject.value == "Payment" || selectObject.value == "VIP - Payment") {
+            element.style.display = "none";
+            element2.style.display = "block";
+            optional.style.display = "none";
+        } else if (selectObject.value == "Other" || selectObject.value == "VIP - Other") {
+            element.style.display = "none";
+            element2.style.display = "none";
+            optional.style.display = "none";
+        }
+    }
+
+    function validateOrderId() {
+        const status = document.getElementById("orderid").value.trim() !== "";
+        if (status === false) {
+            document.getElementById("orderid").className += " is-invalid";
+            alertChild = document.createElement("span");
+            alertChild.style.display = "block";
+            alertChild.innerHTML = "It is mandatory to enter the order number!";
+            alertArea.appendChild(alertChild);
+            alertArea.style.display = "block";
+        }
+        return status;
+    }
+
+    function validateMessage() {
+        var status = document.getElementById("mesaj").value.trim() !== "";
+  		const statuss = document.getElementById("mesaj").value.length;
+        if (status === false) {
+            document.getElementById("mesaj").className += " is-invalid";
+            alertChild = document.createElement("span");
+            alertChild.style.display = "block";
+            alertChild.innerHTML = "Entering the message is mandatory!";
+            alertArea.appendChild(alertChild);
+            alertArea.style.display = "block";
+        }
+  		else if (statuss < 10) {
+  			status = false;
+            document.getElementById("mesaj").className += " is-invalid";
+            alertChild = document.createElement("span");
+            alertChild.style.display = "block";
+            alertChild.innerHTML = "You must specify your message with at least 10 characters!";
+            alertArea.appendChild(alertChild);
+            alertArea.style.display = "block";
+        }
+        return status;
+    }
+
+    $("#send-ticket").click(function (event) {
+        event.preventDefault();
+        alertArea.innerHTML = "";
+        alertArea.style.display = "none";
+        successArea.style.display = "none";
+
+        document.getElementById("orderid").className = document.getElementById("orderid").className.replace("is-invalid", "");
+
+        document.getElementById("mesaj").className = document.getElementById("mesaj").className.replace("is-invalid", "");
+
+        var subject = document.getElementById("Konu").value;
+        var message = "";
+        if (subject == "Order" || subject == "VIP - Order") {
+            var status = true;
+            if (!validateOrderId()) status = false;
+            if (!validateMessage()) status = false;
+            if (!status) return;
+
+            message = "Order Number: " + document.getElementById("orderid").value + "\n" + "Request: " + document.getElementById("request").value + "\n Detailed Description: " + document.getElementById("mesaj").value;
+        } else if (subject == "Payment" || subject == "VIP - Payment") {
+            if (!validateMessage()) return;
+
+            message = "Payment Problem: " + document.getElementById("payment").value + "\n Detailed Description: " + document.getElementById("mesaj").value;
+        } else {
+            if (!validateMessage()) return;
+
+            message = document.getElementById("mesaj").value;
+        }
+		document.getElementById("tmessage").value = message;
+        $("#ticketsend").submit();
+        return false;
+    });
+</script>
+
+</body>
+</html>
+

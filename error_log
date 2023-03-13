@@ -1,0 +1,777 @@
+[07-Jan-2022 13:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/demohyperhost/public_html/ProffessorwithAST.php:458
+Stack trace:
+#0 /home/demohyperhost/public_html/ProffessorwithAST.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/demohyperhost/public_html/index.php(10): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/ProffessorwithAST.php on line 458
+[07-Jan-2022 13:37:47 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 13:37:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 13:38:02 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 13:38:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/demohyperhost/public_html/system/include/guardCodes.php on line 7
+[07-Jan-2022 13:39:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$dosya' (T_VARIABLE), expecting '{' in /home/demohyperhost/public_html/system/include/guardCodes.php on line 4
+[07-Jan-2022 08:09:40 UTC] PHP Parse error:  syntax error, unexpected '$dosya' (T_VARIABLE), expecting '{' in /home/demohyperhost/public_html/system/include/guardCodes.php on line 4
+[07-Jan-2022 08:09:41 UTC] PHP Parse error:  syntax error, unexpected '$dosya' (T_VARIABLE), expecting '{' in /home/demohyperhost/public_html/system/include/guardCodes.php on line 4
+[07-Jan-2022 13:40:18 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 13:42:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 13:46:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 13:57:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:06:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:07:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:08:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:09:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:10:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:11:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:12:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:13:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:14:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:15:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:16:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:16:32 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:17:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:18:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:19:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:20:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:21:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:22:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:23:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:24:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:25:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:26:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:27:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:28:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 14:32:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:27:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:28:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:31:53 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:33:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:34:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:35:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:36:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:37:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:38:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:39:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:40:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:40:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:41:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:42:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:42:24 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:43:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:43:30 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:44:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:44:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:45:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:45:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:46:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:47:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:48:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:49:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:50:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:51:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:52:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:53:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:54:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:55:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:56:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:57:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:58:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 15:59:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:00:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:01:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:02:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:03:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:04:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:05:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:06:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:07:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:08:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:09:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:10:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:11:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:12:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:13:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:14:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:17:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:18:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:19:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:20:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:21:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:22:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:24:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:25:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/demohyperhost/public_html/hyper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/demohyperhost/public_html/hyper.php on line 3
+[07-Jan-2022 16:26:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:27:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:28:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:29:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:30:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:31:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:32:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:33:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:34:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:35:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:36:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:37:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:38:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:39:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:40:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:41:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:42:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:43:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:44:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:45:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:46:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:47:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:48:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:49:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:50:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:51:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:52:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:53:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:54:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:55:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:56:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:57:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:58:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 16:59:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:00:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:01:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:02:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:03:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:04:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:05:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:06:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:07:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:08:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:09:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:10:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:11:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:12:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:13:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:14:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:15:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:16:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:17:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:18:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:19:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:20:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:21:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:22:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:23:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:24:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:25:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:26:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:27:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:28:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:29:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:30:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:31:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:32:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:33:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:34:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:35:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:36:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:37:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:38:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:39:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:40:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:41:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:42:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:43:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:44:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:45:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:46:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:47:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:48:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:49:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:50:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:51:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:52:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:53:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:54:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:55:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:56:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:57:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:58:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 17:59:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:00:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:01:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:02:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:03:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:04:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:05:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:06:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:07:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:08:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:09:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:10:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:11:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:12:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:13:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:14:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:15:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:16:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:17:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:18:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:19:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:20:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:21:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:22:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:23:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:24:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:25:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:26:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:27:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:28:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:29:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:30:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:31:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:32:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:33:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:34:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:35:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:36:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:37:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:38:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:39:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:40:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:41:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:42:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:43:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:44:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:45:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:46:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:47:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:48:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:49:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:50:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:51:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:52:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:53:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:54:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:55:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:56:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:57:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:58:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 18:59:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 19:00:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 19:01:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 19:02:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[07-Jan-2022 19:03:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/demohyperhost/public_html/system/include/guardCodes.php:3) in /home/demohyperhost/public_html/system/include/guardCodes.php on line 3
+[09-Jan-2022 15:41:06 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'demohyperhost_News.clients' doesn't exist in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php:31
+Stack trace:
+#0 /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php(31): PDOStatement->execute(Array)
+#1 /home/demohyperhost/public_html/index.php(6): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php on line 31
+[09-Jan-2022 15:41:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'demohyperhost_News.clients' doesn't exist in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php:31
+Stack trace:
+#0 /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php(31): PDOStatement->execute(Array)
+#1 /home/demohyperhost/public_html/index.php(6): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php on line 31
+[09-Jan-2022 15:41:25 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'demohyperhost_News.settings' doesn't exist in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php:58
+Stack trace:
+#0 /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php(58): PDOStatement->execute(Array)
+#1 /home/demohyperhost/public_html/index.php(6): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php on line 58
+[09-Jan-2022 15:41:28 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'demohyperhost_News.settings' doesn't exist in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php:58
+Stack trace:
+#0 /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php(58): PDOStatement->execute(Array)
+#1 /home/demohyperhost/public_html/index.php(6): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php on line 58
+[09-Jan-2022 15:41:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'demohyperhost_News.settings' doesn't exist in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php:58
+Stack trace:
+#0 /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php(58): PDOStatement->execute(Array)
+#1 /home/demohyperhost/public_html/index.php(6): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php on line 58
+[09-Jan-2022 15:41:32 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'demohyperhost_News.settings' doesn't exist in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php:58
+Stack trace:
+#0 /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php(58): PDOStatement->execute(Array)
+#1 /home/demohyperhost/public_html/index.php(6): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/system/abab1214b922f20db86eff2116a12249.php on line 58
+[09-Jan-2022 15:42:01 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/demohyperhost/public_html/hypers.php:458
+Stack trace:
+#0 /home/demohyperhost/public_html/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/demohyperhost/public_html/index.php(10): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/hypers.php on line 458
+[10-Jan-2022 09:41:37 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/demohyperhost/public_html/hypers.php:458
+Stack trace:
+#0 /home/demohyperhost/public_html/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/demohyperhost/public_html/index.php(10): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/hypers.php on line 458
+[11-Jan-2022 16:27:47 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/demohyperhost/public_html/hypers.php:458
+Stack trace:
+#0 /home/demohyperhost/public_html/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/demohyperhost/public_html/index.php(10): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/hypers.php on line 458
+[11-Jan-2022 18:43:54 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/demohyperhost/public_html/hypers.php:458
+Stack trace:
+#0 /home/demohyperhost/public_html/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/demohyperhost/public_html/index.php(10): require_once('/home/demohyper...')
+#2 {main}
+  thrown in /home/demohyperhost/public_html/hypers.php on line 458
+[31-Jan-2022 20:39:04 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/royalq.club/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/royalq.club/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/royalq.club/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/royalq.club/hypers.php on line 458
+[31-Jan-2022 21:21:02 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/royalq.club/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/royalq.club/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/royalq.club/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/royalq.club/hypers.php on line 458
+[31-Jan-2022 21:59:01 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/royalq.club/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/royalq.club/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/royalq.club/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/royalq.club/hypers.php on line 458
+[31-Jan-2022 23:57:23 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/royalq.club/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/royalq.club/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/royalq.club/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/royalq.club/hypers.php on line 458
+[01-Feb-2022 00:15:08 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/royalq.club/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/royalq.club/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/royalq.club/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/royalq.club/hypers.php on line 458
+[01-Feb-2022 00:39:15 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/royalq.club/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/royalq.club/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/royalq.club/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/royalq.club/hypers.php on line 458
+[01-Feb-2022 06:46:02 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[01-Feb-2022 08:19:03 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[01-Feb-2022 09:07:03 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[03-Feb-2022 19:10:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[03-Feb-2022 19:13:13 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[03-Feb-2022 19:36:23 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[04-Feb-2022 19:28:25 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[06-Feb-2022 13:52:37 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: The "themes/panel/pro" directory does not exist ("/home/smmpkbik/qpanel.smmpanels.store/themes/panel/pro"). in /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('themes/panel/pr...', '__main__')
+#1 /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/smmpkbik/qpanel.smmpanels.store/system/abab1214b922f20db86eff2116a12249.php(67): Twig_Loader_Filesystem->__construct('themes/panel/pr...')
+#3 /home/smmpkbik/qpanel.smmpanels.store/index.php(6): require_once('/home/smmpkbik/...')
+#4 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[06-Feb-2022 13:52:37 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: The "themes/panel/pro-red" directory does not exist ("/home/smmpkbik/qpanel.smmpanels.store/themes/panel/pro-red"). in /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('themes/panel/pr...', '__main__')
+#1 /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/smmpkbik/qpanel.smmpanels.store/system/abab1214b922f20db86eff2116a12249.php(67): Twig_Loader_Filesystem->__construct('themes/panel/pr...')
+#3 /home/smmpkbik/qpanel.smmpanels.store/index.php(6): require_once('/home/smmpkbik/...')
+#4 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[06-Feb-2022 13:52:42 Asia/Kolkata] PHP Fatal error:  Uncaught Twig_Error_Loader: The "themes/panel/pro-red" directory does not exist ("/home/smmpkbik/qpanel.smmpanels.store/themes/panel/pro-red"). in /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php:101
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php(82): Twig_Loader_Filesystem->addPath('themes/panel/pr...', '__main__')
+#1 /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php(40): Twig_Loader_Filesystem->setPaths(Array)
+#2 /home/smmpkbik/qpanel.smmpanels.store/system/abab1214b922f20db86eff2116a12249.php(67): Twig_Loader_Filesystem->__construct('themes/panel/pr...')
+#3 /home/smmpkbik/qpanel.smmpanels.store/index.php(6): require_once('/home/smmpkbik/...')
+#4 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/lib/twig/twig/lib/Twig/Loader/Filesystem.php on line 101
+[06-Feb-2022 18:37:47 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[10-Feb-2022 15:27:14 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/smmpkbik/qpanel.smmpanels.store/system/include/guardCodes.php:3) in /home/smmpkbik/qpanel.smmpanels.store/system/include/guardCodes.php on line 3
+[12-Feb-2022 23:19:52 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[17-Feb-2022 22:01:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[18-Feb-2022 18:24:53 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[19-Feb-2022 21:19:17 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[21-Feb-2022 06:41:55 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[13-Mar-2022 05:15:08 UTC] PHP Warning:  require(/home/smmpkbik/qpanel.smmpanels.store/system/835fa18dc2d7d18b612881e301dca97f.php): failed to open stream: No such file or directory in /home/smmpkbik/qpanel.smmpanels.store/system/abab1214b922f20db86eff2116a12249.php on line 15
+[13-Mar-2022 05:15:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/smmpkbik/qpanel.smmpanels.store/system/835fa18dc2d7d18b612881e301dca97f.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/smmpkbik/qpanel.smmpanels.store/system/abab1214b922f20db86eff2116a12249.php on line 15
+[13-Mar-2022 05:15:09 UTC] PHP Warning:  require(/home/smmpkbik/qpanel.smmpanels.store/system/835fa18dc2d7d18b612881e301dca97f.php): failed to open stream: No such file or directory in /home/smmpkbik/qpanel.smmpanels.store/system/abab1214b922f20db86eff2116a12249.php on line 15
+[13-Mar-2022 05:15:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/smmpkbik/qpanel.smmpanels.store/system/835fa18dc2d7d18b612881e301dca97f.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/smmpkbik/qpanel.smmpanels.store/system/abab1214b922f20db86eff2116a12249.php on line 15
+[13-Mar-2022 17:37:57 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[13-Mar-2022 19:23:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/smmpkbik/qpanel.smmpanels.store/system/include/guardCodes.php:3) in /home/smmpkbik/qpanel.smmpanels.store/system/include/guardCodes.php on line 3
+[13-Mar-2022 19:51:34 Asia/Kolkata] PHP Fatal error:  Cannot redeclare blockIP() (previously declared in /home/smmpkbik/qpanel.smmpanels.store/system/include/guardCodes.php:3) in /home/smmpkbik/qpanel.smmpanels.store/system/include/guardCodes.php on line 3
+[14-Mar-2022 10:39:38 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[14-Mar-2022 10:45:08 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[14-Mar-2022 20:58:47 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[15-Mar-2022 00:36:14 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[15-Mar-2022 09:40:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/smmpkbik/qpanel.smmpanels.store/hypers.php:458
+Stack trace:
+#0 /home/smmpkbik/qpanel.smmpanels.store/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/smmpkbik/qpanel.smmpanels.store/index.php(10): require_once('/home/smmpkbik/...')
+#2 {main}
+  thrown in /home/smmpkbik/qpanel.smmpanels.store/hypers.php on line 458
+[16-Feb-2023 16:34:59 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fanaufwd_social.settings' doesn't exist in /home/fanaufwd/social.yipstanzania.co.tz/system/abab1214b922f20db86eff2116a12249.php:58
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/abab1214b922f20db86eff2116a12249.php(58): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(6): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/abab1214b922f20db86eff2116a12249.php on line 58
+[18-Feb-2023 16:05:48 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 16:09:00 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 16:09:36 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 16:14:50 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 16:14:51 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 16:14:52 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 16:32:18 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 16:37:57 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[18-Feb-2023 17:58:41 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php:458
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php on line 458
+[18-Feb-2023 19:16:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[18-Feb-2023 19:19:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[18-Feb-2023 19:22:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[18-Feb-2023 19:26:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[18-Feb-2023 19:27:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[18-Feb-2023 19:31:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[18-Feb-2023 19:37:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php:458
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php on line 458
+[18-Feb-2023 19:37:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[18-Feb-2023 22:00:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[21-Feb-2023 21:02:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[21-Feb-2023 21:17:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[22-Feb-2023 03:57:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php:458
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php on line 458
+[22-Feb-2023 03:57:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[24-Feb-2023 14:33:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
+[28-Feb-2023 23:54:16 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:54:58 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(202): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:55:22 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(213): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:55:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(213): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:55:31 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/header.php(79): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/clients.php(1): include('/home/fanaufwd/...')
+#3 /home/fanaufwd/social.yipstanzania.co.tz/controller/admin/clients.php(46): require('/home/fanaufwd/...')
+#4 /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/admin.php(15): require('/home/fanaufwd/...')
+#5 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require('/home/fanaufwd/...')
+#6 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#7 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:55:46 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/header.php(79): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/clients.php(1): include('/home/fanaufwd/...')
+#3 /home/fanaufwd/social.yipstanzania.co.tz/controller/admin/clients.php(46): require('/home/fanaufwd/...')
+#4 /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/admin.php(15): require('/home/fanaufwd/...')
+#5 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require('/home/fanaufwd/...')
+#6 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#7 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:55:50 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/header.php(79): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/clients.php(1): include('/home/fanaufwd/...')
+#3 /home/fanaufwd/social.yipstanzania.co.tz/controller/admin/clients.php(46): require('/home/fanaufwd/...')
+#4 /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/admin.php(15): require('/home/fanaufwd/...')
+#5 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require('/home/fanaufwd/...')
+#6 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#7 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:56:09 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/header.php(79): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/themes/admin/clients.php(1): include('/home/fanaufwd/...')
+#3 /home/fanaufwd/social.yipstanzania.co.tz/controller/admin/clients.php(46): require('/home/fanaufwd/...')
+#4 /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/admin.php(15): require('/home/fanaufwd/...')
+#5 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require('/home/fanaufwd/...')
+#6 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#7 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:57:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(213): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[28-Feb-2023 23:57:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php:269
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php(269): PDOStatement->execute()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(213): countRow()
+#2 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#3 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/system/glyconFunc/c3636f0afa193b189ba0e840c86b1c35.php on line 269
+[01-Mar-2023 00:11:03 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and dripfeed=2' at line 1 in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php:458
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(458): PDO->query('SELECT * FROM o...')
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/hypers.php on line 458
+[01-Mar-2023 00:11:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromArray() in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php:486
+Stack trace:
+#0 /home/fanaufwd/social.yipstanzania.co.tz/hypers.php(186): require()
+#1 /home/fanaufwd/social.yipstanzania.co.tz/index.php(10): require_once('/home/fanaufwd/...')
+#2 {main}
+  thrown in /home/fanaufwd/social.yipstanzania.co.tz/controller/panel/addfunds.php on line 486
